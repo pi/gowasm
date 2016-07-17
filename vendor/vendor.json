@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "sPyXtm/8fbcAOytN+dfVZk2+4NE=",
+			"path": "github.com/WebAssembly/design",
+			"revision": "62f30968a641ef6eb7f8cceadae232cea4ad7b4a",
+			"revisionTime": "2016-07-12T04:34:03Z"
+		},
+	],
+	"rootPath": "github.com/pi/gwa"
+}
